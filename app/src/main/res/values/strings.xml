@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Praassessment1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnPersegi">Persegi Panjang</string>
+    <string name="btn_segitiga">Segitiga</string>
+    <string name="Panjang"/>
+    <string name="lebar"/>
+    <string name="btn_hitung">Hitung</string>
+    <string name="luas_segitiga"/>
+    <string name="kelilingsegitiga"/>
+    <string name="about">about</string>
+    <string name="kelilingpersegi"/>
+    <string name="Luas_Persegi"/>
+</resources>
